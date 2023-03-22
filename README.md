@@ -6,7 +6,7 @@ This app combines various front-end and back-end techniques to produce a modern,
 ## Behaviour 
 Blake lets users send and read real-time chat messages that are organized into rooms called Channels. Users see a list of all the channels on the server and can click one to enter that channel. Inside, they see all the messages posted to that channel by any user, and can post their own messages. All messages belong to a channel and all channels are visible to all users; we don't need to implement private rooms or direct messages.
 
-Any user can create a new channel by supplying a display name. Channel names must be unique. If you wish, You may choose to limit what characters are allowed in channel names.
+Any user can create a new channel by supplying a display name. Channel names must be unique. 
 
 ## Running the app
 
